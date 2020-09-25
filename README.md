@@ -1,5 +1,5 @@
-# shell
- CentOS install shell
+# SHELL
+ CentOS,Ubuntu的日常运维脚本
 # mysql
 MySQL的安装，备份，日常使用脚本
 
@@ -21,3 +21,6 @@ Prometheus的使用和安装
 prometheus/add_node_exporter.sh
 
 使用此脚本可以一键添加prometheus_node_export代理
+
+# Zabbx
+zabbix的安装以及其监控模块安装与使用

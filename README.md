@@ -1,2 +1,3 @@
 # shell
- centos
+ CentOS install shell
+ #mysql

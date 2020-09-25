@@ -1,3 +1,3 @@
 # shell
  CentOS install shell
- #mysql
+ /n #mysql

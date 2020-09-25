@@ -1,3 +1,4 @@
 # shell
  CentOS install shell
- /n #mysql
+# MySQL的安装，备份，日常使用脚本
+mysql

@@ -1,6 +1,6 @@
 # SHELL
  CentOS,Ubuntu的日常运维脚本
-# mysql
+# MySQL
 MySQL的安装，备份，日常使用脚本
 
 mysql/install  #安装
@@ -15,7 +15,7 @@ mysql/dump     #备份
 
 mysql/use      #使用
 
-# prometheus
+# Prometheus
 Prometheus的使用和安装
 
 prometheus/add_node_exporter.sh
